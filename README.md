@@ -30,8 +30,6 @@ pip install matplotlib numpy
 3. Run the app
 python fitness_tracker.py
 
-
-
 ### ✅ Future Improvements
 ```
 ## 📌 Future Enhancements
@@ -39,3 +37,7 @@ python fitness_tracker.py
 - Add GUI
 - User readability
 - Integrate with fitness APIs (e.g., Fitbit)
+
+```
+### Improvements Done
+- Improve formatting of the "View Exercise Routines" section for better readability and user experience
